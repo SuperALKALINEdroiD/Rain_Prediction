@@ -9,9 +9,10 @@ Made using Pandas, Numpy, Scikit Learn and keras.
 # Random Forest
 rain model is Random Forest Regressor version of implementation. 
 
-Train Accuracy: 0.8482859729219143
+Train Accuracy: 0.8474889798488665
 
-Test Accuracy:  0.8439741432745949
+Test Accuracy:  0.8517665810679181
+
 
 # Artificial Neural Network
 rain2 has Artificial Neural Network version.
